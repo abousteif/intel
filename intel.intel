@@ -1,0 +1,4 @@
+#fields  indicator  indicator_type  meta.source  meta.do_notice  meta.desc
+14-tracking.com  Intel::DOMAIN  CPS-CTI  T  Amnesty_NSO_Domains
+instagram.com  Intel::DOMAIN  ZEESHOME  T  SOCIALBROWSING
+140.82.112.3  Intel::ADDR  ZEESHOME  T  Workcoding
