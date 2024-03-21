@@ -1,5 +1,5 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
-14-tracking.com	Intel::DOMAINCPS-CTI	T	Amnesty_NSO_Domains
+14-tracking.com	Intel::DOMAINCPS-CTI	ZEESHOME	T	Amnesty_NSO_Domains
 instagram.com	Intel::DOMAIN	ZEESHOME	T	SOCIALBROWSING
 140.82.112.3	Intel::ADDR	ZEESHOME	T	Workcoding
 192.9.135.73	Intel::ADDR	ABUSE-CH	T	BOTNET
