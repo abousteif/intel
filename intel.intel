@@ -1,10 +1,10 @@
-#fields indicator indicator_type meta.source meta.do_notice meta.desc
-14-tracking.com	Intel::DOMAINCPS-CTI	T Amnesty_NSO_Domains
-instagram.com	Intel::DOMAIN	ZEESHOME	T SOCIALBROWSING
-140.82.112.3 Intel::ADDR ZEESHOME	T  Workcoding
-192.9.135.73 Intel::ADDR	ABUSE-CH	T BOTNET
-85.239.243.155	Intel::ADDR	ABUSE-CH	T	BOTNET
-37.60.242.85	Intel::ADDR	ABUSE-CH	T	BOTNET
+#fields  indicator  indicator_type  meta.source  meta.do_notice  meta.desc
+14-tracking.com  Intel::DOMAINCPS-CTI  T  Amnesty_NSO_Domains
+instagram.com  Intel::DOMAIN  ZEESHOME  T  SOCIALBROWSING
+140.82.112.3  Intel::ADDR  ZEESHOME  T  Workcoding
+192.9.135.73  Intel::ADDR  ABUSE-CH  T  BOTNET
+85.239.243.155  Intel::ADDR  ABUSE-CH  T  BOTNET
+37.60.242.85  Intel::ADDR  ABUSE-CH  T  BOTNET
 178.18.246.136	Intel::ADDR	ABUSE-CH	T	BOTNET
 23.226.138.143	Intel::ADDR	ABUSE-CH	T	BOTNET
 23.226.138.161	Intel::ADDR	ABUSE-CH	T	BOTNET
