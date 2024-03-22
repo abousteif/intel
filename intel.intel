@@ -1,6 +1,6 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
 14-tracking.com	Intel::DOMAIN	ZEESHOME	T	Amnesty_NSO_Domains
-httpforever.com Intel::DOMAIN	ZEESHOME	F	HTTPBROWSING
+httpforever.com	Intel::DOMAIN	ZEESHOME	F	HTTPBROWSING
 instagram.com	Intel::DOMAIN	ZEESHOME	T	SOCIALBROWSING
 140.82.112.3	Intel::ADDR	ZEESHOME	T	Workcoding
 192.9.135.73	Intel::ADDR	ABUSE-CH	T	BOTNET
